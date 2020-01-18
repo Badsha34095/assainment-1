@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	text-align: center;
+	text-transform: uppercase;
+}
+.header{
+	background-color: green;
+	height:100px;
+}
+.content{
+	overflow: hidden;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.nav-bar{
+	background-color: blue;
+	height:450px;
+	width: 25%;
+	float: left;
+}
+.center{
+	background-color: red;
+	height:450px;
+	width: 49%;
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.right-bar{
+	background-color: blue;
+	height:450px;
+	width: 25%;
+	float: right;
+}
+.footer{
+	background-color: green;
+	height:100px;
+}
